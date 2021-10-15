@@ -132,6 +132,7 @@ sudo systemctl stop docker
 
 
 - console로 이동
+
 ![gcp](./images/gcp.jpg)
 
 - 무료 평가판 활성화 시작
